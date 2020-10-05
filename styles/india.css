@@ -1,0 +1,23 @@
+img {
+	width: 100%;
+
+	/* border-radius: 1em; */
+}
+img.sticky {
+	position: -ms-page;
+	position: sticky;
+	top: 0;
+	width: 200px;
+}
+.main__img {
+	position: relative;
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+.centered {
+	position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
