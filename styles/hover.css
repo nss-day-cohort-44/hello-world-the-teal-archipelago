@@ -4,3 +4,51 @@
     box-shadow: 0 20px 10px #496AA8;
 }
 
+.navBar {
+    background-color: wheat;
+    display: block;
+    padding: 10px;
+    border-radius: 1em;
+    margin-bottom: .5em;
+    display: flex;
+    justify-content: space-around;
+}
+
+a:hover {
+    position: relative;
+    bottom: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
+    color: #496AA8;
+}
+
+a:link {
+    color: black;
+}
+
+.horizontal:hover {
+    position: relative;
+    bottom: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
+    color: #496AA8;
+}
+
+.vertical:hover {
+    position: relative;
+    bottom: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
+    color: #496AA8;
+}
+
+.big:hover {
+    position: relative;
+    bottom: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
+    color: #496AA8;
+}
+
+.small:hover {
+    position: relative;
+    bottom: 10px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
+    color: #496AA8;
+}
