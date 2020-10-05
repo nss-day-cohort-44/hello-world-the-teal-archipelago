@@ -1,0 +1,99 @@
+img {
+	width: 100%;
+
+	/* border-radius: 1em; */
+}
+img.sticky {
+	position: -ms-page;
+	position: sticky;
+	top: 0;
+	width: 200px;
+}
+.main__img {
+	position: relative;
+  text-align: center;
+  color: yellow;
+  font-size: 50px;
+}
+.centered {
+	position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+	width: 100%;
+}
+.cities__list,
+.landmarks__list,
+.famous__citizen {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+ 
+.city,
+.landmark,
+.citizen {
+	min-width: 150px;
+	flex: 1 1 17%;
+}
+.card {
+	margin: 0 1em 1em o;
+	padding: 1em;
+	background-color: wheat;
+	border-radius: 1em;
+}
+
+.card>img {
+	width: 100%;
+	border-radius: 1em;
+}
+
+
+
+/* css works for image gallery */
+
+.photo__gallery > div {
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    color: #ffeead;
+}
+
+.photo__gallery > div > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.photo__gallery {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-auto-rows: 75px;
+    grid-auto-flow: dense;
+}
+
+.horizontal {
+    grid-column: span 2;
+}
+
+.vertical {
+    grid-row: span 2;
+}
+
+.big {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+
+footer {
+    background-color: lightgrey;
+    color: black;
+    text-align: center;
+	margin: 0px;
+	height: 50px;
+}
