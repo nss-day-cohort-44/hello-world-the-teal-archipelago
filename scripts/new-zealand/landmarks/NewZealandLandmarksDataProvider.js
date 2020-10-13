@@ -17,3 +17,7 @@ const landmarkData = [
         description: "The Sky Tower is a telecommunications and observation tower in Auckland, New Zealand. Located at the corner of Victoria and Federal Streets within the city's CBD, it is 328 metres (1,076 ft) tall, as measured from ground level to the top of the mast, making it the tallest freestanding structure in the Southern Hemisphere and the 27th tallest tower in the world. It has become an iconic landmark in Auckland's skyline due to its height and unique design."
     }
 ]
+
+export const useLandmarkData = () => {
+    return landmarkData.slice()
+}

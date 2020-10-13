@@ -18,3 +18,7 @@ const citizenData = [
         description: "Russell Ira Crowe was born in Wellington, New Zealand, to Jocelyn Yvonne (Wemyss) and John Alexander Crowe, both of whom catered movie sets. His maternal grandfather, Stanley Wemyss, was a cinematographer. Crowe's recent ancestry includes Welsh (where his paternal grandfather was born, in Wrexham), English, Irish, Scottish, Norwegian, Swedish, Italian, and Maori (one of Crowe's maternal great-grandmothers, Erana Putiputi Hayes Heihi, was Maori)."
     }
 ]
+
+export const useCitizenData = () => {
+    return citizenData.slice()
+}
