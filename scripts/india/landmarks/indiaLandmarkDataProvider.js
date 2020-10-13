@@ -11,7 +11,7 @@ const indiaLandmarkData = [
     },
     {
         name: "The Golden Temple",
-        image: "./images/Golden temple.webp",
+        image: "./images/Golden-temple.webp",
         description: "Sri Harmandir Sahib (Golden Temple ) The Golden temple is located in the holy city of the Sikhs, Amritsar. The Golden temple is famous for its full golden dome, it is one of the most sacred pilgrim spots for Sikhs. The Mandir is built on a 67-ft square of marble and is a two storied structure."
     }
 ]
