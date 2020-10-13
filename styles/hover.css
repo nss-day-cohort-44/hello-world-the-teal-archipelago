@@ -1,7 +1,7 @@
 .card:hover {
     position: relative;
     bottom: 20px;
-    box-shadow: 0 20px 10px #496AA8;
+    box-shadow: 0 20px 10px rgba(0, 0, 0, 0.648);
 }
 
 .navBar {
@@ -16,9 +16,9 @@
 
 a:hover {
     position: relative;
-    bottom: 10px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.648);
-    color: #496AA8;
+    bottom: 5px;
+    box-shadow: 0 10px 5px rgba(0, 0, 0, 0.648);
+    color: #0b2350;
 }
 
 a:link {
