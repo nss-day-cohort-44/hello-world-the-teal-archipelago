@@ -1,3 +1,4 @@
+
 export const createCard=(myArray)=>{
     return `<div class="card">
         <h2>${myArray.name}</h2>
