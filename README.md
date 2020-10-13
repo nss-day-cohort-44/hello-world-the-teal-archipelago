@@ -14,3 +14,12 @@ Enter the following git commands inside your terminal.
 
 ## Dynamically Making Files
 To dynamically create files, each page has its own its script directory with 3 subdirectories: cities, landmarks, and citizens. Each subdirectory has two files, one data provider and one to create the list. Each list file is calling upon its specific data provider and a common card creator module to fully create the needed html. 
+
+## Contributors
+- Will Bishop - [LinkedIn](https://www.linkedin.com/in/will-bishop-49818284/)
+
+- Kyle Nevels - [LinkedIn](https://www.linkedin.com/in/kyle-nevels-8488621b8)
+
+- Sanjeet Prasad - [LinkedIn](https://www.linkedin.com/in/sanjeet-prasad-b0089b170/)
+
+- David Williams - [LinkedIn](https://www.linkedin.com/in/david-williams-b8a39472/)
