@@ -19,6 +19,6 @@ const landmarkCollection = [
     },
     
 ]
-export const landmarkInfo = () => {
+export const landmarksInfo = () => {
     return landmarkCollection.slice()
 }
