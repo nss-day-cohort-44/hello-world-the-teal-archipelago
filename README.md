@@ -7,9 +7,13 @@ This is a travel brochure application that highlights landmarks, noteworthy citi
 ## In order to get started
 Enter the following git commands inside your terminal.
 1. Clone the repository with `git clone git@github.com:nss-day-cohort-44/hello-world-the-teal-archipelago.git`
+
 2. Immediately create their first branch with `git checkout -b {initials-feature-your-working-on}`
+
 3. Open your code by copying the following code and entering it in you terminal `code .`
+
 4. Remember to do a commit often by entering `git commit -m "what you did in your code"` inside your terminal 
+
 5. NEVER WORK DIRECTLY ON MASTER BRANCH!
 
 ## Dynamically Making Files
