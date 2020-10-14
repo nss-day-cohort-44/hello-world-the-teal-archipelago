@@ -7,23 +7,17 @@ This is a travel brochure application that highlights landmarks, noteworthy citi
 ## In order to get started
 Enter the following git commands inside your terminal.
 1. Clone the repository with `git clone git@github.com:nss-day-cohort-44/hello-world-the-teal-archipelago.git`
-
 2. Immediately create their first branch with `git checkout -b {initials-feature-your-working-on}`
-
 3. Open your code by copying the following code and entering it in you terminal `code .`
-
 4. Remember to do a commit often by entering `git commit -m "what you did in your code"` inside your terminal 
-
 5. NEVER WORK DIRECTLY ON MASTER BRANCH!
 
 ## Dynamically Making Files
 To dynamically create files, each page has its own its script directory with 3 subdirectories: cities, landmarks, and citizens. Each subdirectory has two files, one data provider and one to create the list. Each list file is calling upon its specific data provider and a common card creator module to fully create the needed html. 
 
-## Contributors
-- Will Bishop - [LinkedIn](https://www.linkedin.com/in/will-bishop-49818284/)
-
-- Kyle Nevels - [LinkedIn](https://www.linkedin.com/in/kyle-nevels-8488621b8)
-
-- Sanjeet Prasad - [LinkedIn](https://www.linkedin.com/in/sanjeet-prasad-b0089b170/)
-
-- David Williams - [LinkedIn](https://www.linkedin.com/in/david-williams-b8a39472/)
+## Achievement of this Group project.
+1. Our main achievement of this project was to we know the git and Github very well.
+2. We come to know the art of working in a group where everyone is a developer. To listen to each group member and try to come to a mutually agreed upon point with no conflict.
+3. We come to know that our group members aren’t just fellow learners, they’re also our teachers.
+4. We come to know our strengths and weaknesses and start working on our weaknesses.
+5. As a group we Identified the problem and solved that together.
