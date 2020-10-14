@@ -21,3 +21,12 @@ To dynamically create files, each page has its own its script directory with 3 s
 3. We come to know that our group members aren’t just fellow learners, they’re also our teachers.
 4. We come to know our strengths and weaknesses and start working on our weaknesses.
 5. As a group we Identified the problem and solved that together.
+
+## Contributors
+- Will Bishop - [LinkedIn](https://www.linkedin.com/in/will-bishop-49818284/)
+
+- Kyle Nevels - [LinkedIn](https://www.linkedin.com/in/kyle-nevels-8488621b8)
+
+- Sanjeet Prasad - [LinkedIn](https://www.linkedin.com/in/sanjeet-prasad-b0089b170/)
+
+- David Williams - [LinkedIn](https://www.linkedin.com/in/david-williams-b8a39472/)
